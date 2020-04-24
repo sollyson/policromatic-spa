@@ -1,0 +1,10 @@
+.background {
+  height: 500px;
+  background-image: url(https://i.imgur.com/lh6Ko2X.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-group {
+  color: white;
+}
